@@ -14,3 +14,6 @@ This was an application written for an end of year project for my Linux scriptin
 
 # To-Do
 Add a check to determine if Curl is installed.
+
+# Video Walkthrough 
+https://youtube.com/playlist?list=PLcVjjuMWJdVe4ZB38jm6djHH4InkgS-Uw
